@@ -1,0 +1,4 @@
+token     = "AAAAAAAAAAAAAAAAAAAAAAAAA"
+cloud_id  = "BBBBBBBBBBBBBBBBBBBBBBBBB"
+folder_id = "CCCCCCCCCCCCCCCCCCCCCCCCCC"
+zone_id     = "ru-central1-a"
