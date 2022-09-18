@@ -12,7 +12,6 @@ terraform {
     key        = "diplom/terraform.tfstate"
     access_key = "XXXXXXXXXXXXXXXXXXX"
     secret_key = "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYY"
-
     skip_region_validation      = true
     skip_credentials_validation = true
   } 

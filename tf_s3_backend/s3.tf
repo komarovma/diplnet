@@ -39,7 +39,7 @@ resource "yandex_storage_bucket" "netology-bucket" {
 }
 
 
-
+// Create Yandex Container Registry
 resource "yandex_container_registry" "nt-reg" {
   name = "nt-registry"
   folder_id   = var.folder_id
